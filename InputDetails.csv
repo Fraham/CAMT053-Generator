@@ -1,0 +1,2 @@
+TransactionId,Reason,ProprietaryCode,Amount,BookingDate,Iban,Bic,Name
+101318,AM04,N255,37.50,2019-06-12,HS82ZLDN16766439526705,MLROGJGZVQT,Bob
